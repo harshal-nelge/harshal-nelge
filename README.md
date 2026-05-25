@@ -7,4 +7,6 @@ Backend: Python, Django, FastAPI, REST APIs
 Databases: PostgreSQL, MongoDB, Redis, Pinecone, Qdrant
 Cloud & DevOps: GCP, AWS, Docker, Git
 
-LinkedIn    Twitter    Mail
+[![LinkedIn](./img/linkedin.svg)](https://www.linkedin.com/in/harshal-nelge-3a35a6252/)
+&nbsp;&nbsp;
+[![Mail](./img/gmail.svg)](mailto:harshalnelge@gmail.com)

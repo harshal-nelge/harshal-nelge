@@ -7,4 +7,4 @@ Backend: Python, Django, FastAPI, REST APIs
 Databases: PostgreSQL, MongoDB, Redis, Pinecone, Qdrant
 Cloud & DevOps: GCP, AWS, Docker, Git
 
-📫 harshalnelge@gmail.com · LinkedIn
+LinkedIn    Twitter    Mail
